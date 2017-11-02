@@ -1,0 +1,7 @@
+prepare environment in Windows machine
+1) install Anaconda 3.6 version and open "Anacnoda Prompt"
+2) conda create -n tensorflow python=3.6
+3) activate tensorflow
+4) pip install --ignore-installed --upgrade tensorflow
+5) conda install jupyter matpotlib scipy
+6) pip install sklearn
